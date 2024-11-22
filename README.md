@@ -5,6 +5,10 @@ The goal of the project was to create a complete electronic device functioning a
   <img src="Compass_photo_1.png" alt="screenshot1">
 </div>
 
+<div align="center">
+  <img src="Compass_photo_2.png" alt="screenshot1">
+</div>
+
 ## Assumptions<br />
 - Utilization of a board with a small circular display and an RP2040 microcontroller.<br />
 - Design of a PCB with additional sensors, an encoder, and a debug connector.<br />
